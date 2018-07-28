@@ -33,4 +33,4 @@ print_discriminator() -> Does not need to passa parameter, is used usualy to deb
 getN_Rams() -> Return number of RAMs in that discriminator
 ```
 
-> An example of an application using this lib is showed [here](https://github.com/suayder/Mnist-Wisard)
+> An example of an application using this lib is showed [here](https://github.com/suayder/Mnist-Wisard).
